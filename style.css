@@ -1,3 +1,8 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
 .button{
     background-color: #E76F51;
 }
@@ -10,4 +15,38 @@
 .best{
     color: #E76F51;
 }
-
+    
+.user img{
+    height: 350px;
+    width: 350px;
+    border-radius: 50%;
+}    
+.paragraph{
+    text-align:center;
+    padding-left:50px;
+    padding-right:50px;
+}
+.star{
+    text-align: center;
+    color: #E76F51;
+   }
+   .regina{
+    color: #23A6F0;
+    text-align: center;
+    }
+.banker{
+    text-align: center;
+    font-weight: 500;
+}
+.faq img{
+width: 110%;
+}
+.faq{
+   margin-right: 100px;
+}
+.header{
+    color: black;
+}
+.ancore{
+    
+}
