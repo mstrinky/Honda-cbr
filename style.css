@@ -16,11 +16,7 @@
     color: #E76F51;
 }
     
-.user img{
-    height: 350px;
-    width: 350px;
-    border-radius: 50%;
-}    
+    
 .paragraph{
     text-align:center;
     padding-left:50px;
@@ -47,6 +43,27 @@ width: 110%;
 .header{
     color: black;
 }
-.ancore{
-    
+.ancor a{
+    text-decoration: none;
+    color:#FFFFFF;
+    margin-right: 10px;
+    }
+  
+.footer-1{
+   
+    color: #FFFFFF;
+}
+.playstore{
+    color:rgb(214, 16, 131) ;
+}
+.get on{
+    padding: 0;
+    margin: ;
+}
+.border{
+    border: 5px solid white;
+    border-radius: 5px;
+}
+.space{
+    margin-top: 30px;
 }
