@@ -58,7 +58,7 @@ width: 110%;
 }
 .get on{
     padding: 0;
-    margin: ;
+ 
 }
 .border{
     border: 5px solid white;
@@ -67,3 +67,20 @@ width: 110%;
 .space{
     margin-top: 30px;
 }
+.bar{
+    display: none;
+}
+@media screen, (max-width:480px){
+    .width{
+        width: 100%;
+            margin-top:50px;
+    }
+    .nav-bar{
+        display: none;
+    }
+    .bar{
+        display: block;
+        padding: 50px;
+    }
+}
+
