@@ -70,7 +70,7 @@ width: 110%;
 .bar{
     display: none;
 }
-@media screen, (max-width:480px){
+@media  (max-width:480px){
     .width{
         width: 100%;
             margin-top:50px;
